@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Naura",
+  "greetingText": "Aku selalu suka memanggil namamu.",
+  "wishText": "Semoga bahagia selalu menyertaimu, meski kita tak lagi bersama.",
+  "imagePath": "img/Naura.jpg",
+  "text1": "Selamat ulang tahun, meskipun aku terlambat... :')",
+  "textInChatBox": "Aku tahu mungkin ini sudah lewat, tapi aku tetap ingin bilang: Selamat ulang tahun, Naura. Semoga hari-harimu selalu dipenuhi cinta dan kebahagiaan. 🎉❤️",
+  "sendButtonLabel": "Kirim",
+  "text2": "Aku hampir tidak melakukannya...",
+  "text3": "Tapi kemudian aku teringat.",
+  "text4": "Aku ingin melakukan sesuatu",
+  "text4Adjective": "berarti",
+  "text5Entry": "Karena, Naura selalu berarti bagiku.",
+  "text5Content": "Dan hatiku tak pernah lupa.",
+  "smiley": ":')",
+  "bigTextPart1": "T",
+  "bigTextPart2": "A",
+  "wishHeading": "Selamat Ulang Tahun, Naura",
+  "outroText": "Aku hanya ingin tahu, apakah ini bisa membuatmu tersenyum meskipun kita sudah berbeda jalan?",
+  "replayText": "Atau klik lagi jika kau ingin membacanya kembali.",
+  "outroSmiley": ":')"
+}
